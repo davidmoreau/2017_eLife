@@ -3,8 +3,7 @@
 These files accompany the paper "High-intensity Training Enhances Executive Function in Children in a Randomized, Placebo-Controlled Trial" published in 2017 in eLife.
 
 Files included:
-- Moreau_eLife_2017.pdf
-The final, published version of the paper.
+- Moreau_eLife_2017.pdf - The final, published version of the paper.
 - Figures 1:6
 All high definition figures in the paper.
 - CC(...).eps and WM(...).eps
