@@ -1,0 +1,88 @@
+HIT Workout Script
+
+This document presents the detailed script of the HIT workout we report in the paper. All instructions were both verbal and written on the screen. Below is the detail of all instructions (non-italicized font) and triggers (italicized font).
+
+[0:09]: Welcome. Before we get started, get comfortable and make sure you have enough space around you to move freely.
+[0:17]: Ready?
+[0:18]: Let?s start with a quick warm-up!
+
+[0:20]: Warm-up starts.
+[2:42]: Warm-up ends.
+
+[2:43]: Now let?s begin the core of the workout. In this part of the session, we are going to alternate between short bursts of exercise at maximal intensity, and rest.
+[2:53]: Follow me, or even better, try to go faster! And remember: this only works if you give it a 100%!
+[3:01]: Now get ready...
+[3:05]: Countdown starts. 3, 2, 1, Go!
+
+[3:09]: HIT exercise #1 starts (20s). [Jumping Jacks]
+[3:14]: Countdown starts. 15, 14, ..., 1.
+[3:29]: HIT exercise #1 ends.
+
+[3:29]: Rest #1 starts.
+[3:49]: We will start again in 10 seconds...
+[3:50]: Get ready...
+[3:56]: Countdown starts. 3, 2, 1, Go!
+[3:59]: Rest #1 ends.
+
+[4:00]: HIT exercise #2 starts (20s). [High Knees]
+[4:05]: Countdown starts. 15, 14, ..., 1.
+[4:20]: HIT exercise #2 ends.
+
+[4:20]: Rest #2 starts (40s).
+[4:50]: We will start again in 10 seconds...
+[4:51]: Get ready...
+[4:57]: Countdown starts. 3, 2, 1, Go!
+[5:00]: Rest #2 ends.
+
+[5:00]: HIT exercise #3 starts (20s). [Squat Jumps]
+[5:05]: Countdown starts. 15, 14, ..., 1.
+[5:20]: HIT exercise #4 ends.
+
+[5:21]: Rest #3 starts (50s).
+[6:01]: We will start again in 10 seconds...
+[6:02]: Get ready...
+[6:08]: Countdown starts. 3, 2, 1, Go!
+[6:11]: Rest #3 ends.
+
+[6:11]: HIT exercise #4 starts (20s). [Squat Jacks]
+[6:16]: Countdown starts. 15, 14, ..., 1.
+[6:31]: HIT exercise #4 ends.
+
+[6:32]: Rest #4 starts (1min).
+[7:22]: We will start again in 10 seconds...
+[7:23]: Get ready...
+[7:29]: Countdown starts. 3, 2, 1, Go!
+[7:32]: Rest #4 ends.
+
+[7:32]: HIT exercise #5 starts (20s). [Leg Switches]
+[7:37]: Countdown starts. 15, 14, ..., 1.
+[7:52]: HIT exercise #5 ends.
+
+[7:53]: Rest #5 starts (20s). 
+[8:03]: We will start again in 10 seconds...
+[8:05]: But nice and easy this time: Just stretching!
+[8:08]: Time to relax: Remember to inhale and exhale slowly and deeply as you stretch...
+[8:10]: Countdown starts. 3, 2, 1, Go!
+[8:13]: Rest #5 ends.
+
+[8:14]: Stretching starts.
+[10:19]: Stretching ends.
+[10:20]: Great job!
+[10:24]: Video ends.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
