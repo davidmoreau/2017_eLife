@@ -3,6 +3,7 @@
 These files accompany the paper "High-intensity Training Enhances Executive Function in Children in a Randomized, Placebo-Controlled Trial" published in 2017 in eLife.
 
 Files included:
+- 2017_eLife_Moreau.pdf - Final, published version of the paper.
 - CC(...).eps and WM(...).eps - Plots for the MCMC data.
 - CC(...).Rdata and WM(...).Rdata - Raw MCMC data.
 - CONSORT 2010 Checklist.pdf - Check list defined by CONSORT guidelines (2010).
@@ -11,6 +12,7 @@ Files included:
 - eLife_data.csv - Data for all self-reported and cognitive measures.
 - Figures 1:6 - All high-definition figures included in the paper.
 - HIT_workout_script - Details of the HIT workout.
+- LICENSE.md - License and rights to use/reuse content.
 - Moreau_eLife_2017.pdf - The final, published version of the paper.
 - Protocol_015078.pdf - Study protocol.
 - Reliability_indices.csv - All indices used to calculate reliability of the experimental testing tasks.
