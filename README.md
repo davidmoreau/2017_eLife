@@ -17,6 +17,7 @@ Files included:
 - SAP.pdf - The statistical analysis plan, with code.
 - Transparent_reporting - eLife transparent reporting form.
 
-Please cite as: Moreau, D., Kirk, I. J., & Waldie, K. E. (2017). High-intensity training enhances executive function in children in a randomized, placebo-controlled trial. eLife.
+Please cite as: Moreau, D., Kirk, I. J., & Waldie, K. E. (2017). High-intensity training enhances executive function in children in a randomized, placebo-controlled trial. eLife, 6:e25062.
+https://elifesciences.org/articles/25062
 
 Suggestions or comments? Please send an email to d.moreau@auckland.ac.nz
