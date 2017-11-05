@@ -13,7 +13,6 @@ Files included:
 - Figures 1:6 - All high-definition figures included in the paper.
 - HIT_workout_script - Details of the HIT workout.
 - LICENSE.md - License and rights to use/reuse content.
-- Moreau_eLife_2017.pdf - The final, published version of the paper.
 - Protocol_015078.pdf - Study protocol.
 - Reliability_indices.csv - All indices used to calculate reliability of the experimental testing tasks.
 - SAP.pdf - The statistical analysis plan, with code.
